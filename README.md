@@ -13,7 +13,8 @@ I created a network diagram using Cisco Packet Tracer, a security lab on Virtual
 
 ##
 <h3 align="center"> The network diagram displays the layout, design, and topology of my cybersecurity lab setup.
-<img width="468" alt="image" src="https://github.com/ellaowens/Cybersecurity-Lab/assets/114102710/e8952ce4-33eb-4ab6-9f54-d827d2610c2a"></h3>
+
+ <img width="468" alt="image" src="https://github.com/ellaowens/Cybersecurity-Lab/assets/114102710/e8952ce4-33eb-4ab6-9f54-d827d2610c2a"></h3>
 
 ##
 <h3 align="center"> For my security lab, created in Virtualbox on Windows, I downloaded, installed and configured various components, services, and tools. This included Ubuntu, Snort, Suricata, Splunk, pfSense, Kali Linux, Metasploitable, and much more.</h3>
