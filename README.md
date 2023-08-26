@@ -5,7 +5,7 @@ One of my many projects with TKH was to create a Cybersecurity Lab. For this lab
 I created a network diagram using Cisco Packet Tracer, a security lab on VirtualBox, and wrote a paper discussing and describing the various cybersecurity components that made up my security lab.
 
 ##
-<h3 align="center">My paper explains what tools and services make my security lab, what they do, and why they are important in the security industry.</h3>
+<h3 align="center">My paper explains what tools and services make up my security lab, what they do, and why they are important in the security industry.</h3>
 
 #### Here's a snippet of the paper:
 <h3 align="center"> <img width="504" alt="Screenshot 2023-08-13 at 3 45 37 PM" src="https://github.com/ellaowens/Cybersecurity-Lab/assets/114102710/f43636d7-c38a-4d74-b6d8-9d5aa614ff1f"> </h3>
